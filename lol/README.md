@@ -6,7 +6,7 @@ I'll say this right here and now, I absolutely loathed this challenge. Included 
 A good CTF competitor has a very large arsenal of random stegonagraphy tools because they never know what the tool the competition might need, the first tool required for this challenge is fairly common, the second tool is very obscure. The second tool can be likened to lemon juice under the gaze of the EM radiation with the wavelength of 400 nanometers to 10 nanometers, but of course this tool is not analog and just uses 1's and 0's.
 ```
 
-After passing it to my team, one of them said "you should try this tool called Digital Invisible Ink Toolkit", [thanks TheFool](https://github.com/EminentFool) we threw it in, and FINALLY got it.
+After passing it to my team, one of them said "you should try this tool called Digital Invisible Ink Toolkit", ([thanks TheFool](https://github.com/EminentFool)) we threw it in, and FINALLY got it.
 
 Total tome wasted: 8 hours.
 
